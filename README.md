@@ -6,6 +6,6 @@ Our main objective in this study is to explore some characteristics which could 
 
 Please find more details in below two papers.
 
-[1] Rajesh Piryani, Wolfgang Otto, Philipp Mayr and Vivek Kumar Singh. Analysing author name mentions in citation contexts of highly cited publications. Published in 4th Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2019) at the 42ndInternational ACM SIGIR Conference on Research and Development in Information Retrieval, Paris, France.
+[1] Rajesh Piryani, Wolfgang Otto, Philipp Mayr and Vivek Kumar Singh. <b>Analysing author name mentions in citation contexts of highly cited publications.</b> Published in 4th Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2019) at the 42ndInternational ACM SIGIR Conference on Research and Development in Information Retrieval, Paris, France.
 
-[2] Wolfgang Otto, Behnam Ghavimi, Philipp Mayr, Rajesh Piryani, and Vivek Kumar Singh. Highly cited references in PLOS ONE and their in-text usage over time. Accepted in ISSI 2019, arXiv preprint arXiv:1903.11693 (2019).
+[2] Wolfgang Otto, Behnam Ghavimi, Philipp Mayr, Rajesh Piryani, and Vivek Kumar Singh. <b>Highly cited references in PLOS ONE and their in-text usage over time<b>. Accepted in ISSI 2019, arXiv preprint arXiv:1903.11693 (2019).
